@@ -5,6 +5,13 @@
     --dark: #181d38;
 }
 
+.min-w-max{
+    min-width: max-content;
+}
+.max-w-sm{
+    max-width: 24rem;
+}
+
 .fw-medium {
     font-weight: 600 !important;
 }
