@@ -11,6 +11,9 @@
 .max-w-sm{
     max-width: 24rem;
 }
+.max-w-max{
+    max-width: max-content;
+}
 
 .fw-medium {
     font-weight: 600 !important;
